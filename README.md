@@ -60,31 +60,43 @@ Below are **recommended Power BI visuals** to support the analysis:
 
 
 ---
-##📌 Recommendations
- 
-### **1️⃣ Improve Peak Season Strategies**
-• Insight: The Area Chart on Total Sales by Month highlights peak sales periods.
-• Action: Align marketing efforts and inventory stocking with peak seasons.
-• Implementation: Implement targeted campaigns during high-demand months.
 
-### **2️⃣ Optimize Regional Sales Performance**
-• Insight: The Filled Map reveals geographical sales disparities.
-• Action: Increase promotional efforts in low-performing states.
-• Implementation: Focus on local sponsorships and collaborations to boost awareness.
+## 📌 Recommendations
 
-### **3️⃣ Enhance Product Positioning**
-• Insight: The Bar Chart shows variations in product sales.
-• Action: Adjust pricing and promotions for underperforming products.
-• Implementation: Conduct customer surveys to refine product offerings.
+### **1. Improve Peak Season Strategies**
+🔹 **Insight:** The Area Chart on Total Sales by Month highlights peak sales periods.  
+🔹 **Action:** Align marketing efforts and inventory stocking with peak seasons.  
+🔹 **Implementation:**  
+   - Launch targeted campaigns during high-demand months.  
+   - Optimize inventory management for peak seasons.
 
-### **4️⃣ Strengthen Retailer Partnerships**
-• Insight: The Bar Chart on Total Sales by Retailer highlights retailer contributions.
-• Action: Encourage stronger collaboration with top-performing retailers.
-• Implementation: Introduce exclusive Adidas product lines for high-sales retailers.
+### **2. Optimize Regional Sales Performance**
+🔹 **Insight:** The Filled Map reveals geographical sales disparities.  
+🔹 **Action:** Increase promotional efforts in low-performing states.  
+🔹 **Implementation:**  
+   - Develop localized marketing strategies.  
+   - Partner with regional influencers to boost awareness.
 
-### **5️⃣ Maximize Profit Margins**
-• Insight: Margin Analysis identifies profitability trends.
-• Action: Rework pricing strategies to enhance overall profit margins.
+### **3. Enhance Product Positioning**
+🔹 **Insight:** The Bar Chart shows variations in product sales.  
+🔹 **Action:** Adjust pricing and promotions for underperforming products.  
+🔹 **Implementation:**  
+   - Conduct customer surveys to refine product offerings.  
+   - Test new promotional pricing strategies.
+
+### **4. Strengthen Retailer Partnerships**
+🔹 **Insight:** The Bar Chart on Total Sales by Retailer highlights retailer contributions.  
+🔹 **Action:** Encourage stronger collaboration with top-performing retailers.  
+🔹 **Implementation:**  
+   - Offer exclusive Adidas product lines for high-sales retailers.  
+   - Establish joint marketing initiatives.
+
+### **5. Maximize Profit Margins**
+🔹 **Insight:** Margin Analysis identifies profitability trends.  
+🔹 **Action:** Rework pricing strategies to enhance overall profit margins.  
+🔹 **Implementation:**  
+   - Streamline operational costs for higher efficiency.  
+   - Implement dynamic pricing models to boost profits.
 
 ---
 ## ⚡ Action Plan
