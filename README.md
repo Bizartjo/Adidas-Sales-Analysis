@@ -59,6 +59,50 @@ Below are **recommended Power BI visuals** to support the analysis:
 ![Image](https://github.com/user-attachments/assets/0f5a6326-8a37-4dec-ad48-990aa377c60f)
 
 
+---
+##📌 Recommendations
+ 
+### **1️⃣ Improve Peak Season Strategies**
+• Insight: The Area Chart on Total Sales by Month highlights peak sales periods.
+• Action: Align marketing efforts and inventory stocking with peak seasons.
+• Implementation: Implement targeted campaigns during high-demand months.
+
+### **2️⃣ Optimize Regional Sales Performance**
+• Insight: The Filled Map reveals geographical sales disparities.
+• Action: Increase promotional efforts in low-performing states.
+• Implementation: Focus on local sponsorships and collaborations to boost awareness.
+
+### **3️⃣ Enhance Product Positioning**
+• Insight: The Bar Chart shows variations in product sales.
+• Action: Adjust pricing and promotions for underperforming products.
+• Implementation: Conduct customer surveys to refine product offerings.
+
+### **4️⃣ Strengthen Retailer Partnerships**
+• Insight: The Bar Chart on Total Sales by Retailer highlights retailer contributions.
+• Action: Encourage stronger collaboration with top-performing retailers.
+• Implementation: Introduce exclusive Adidas product lines for high-sales retailers.
+
+### **5️⃣ Maximize Profit Margins**
+• Insight: Margin Analysis identifies profitability trends.
+• Action: Rework pricing strategies to enhance overall profit margins.
+
+---
+## ⚡ Action Plan
+
+| **Action Item** | **Objective** | **Owner(s)** | **Timeline** |
+|---------------|--------------|------------|------------|
+| 🌈 **Seasonal Marketing Strategy** | Boost high-season revenue | Marketing Team | Q2-Q4 |
+| 🌍 **Regional Expansion Strategy** | Strengthen underperforming regions | Sales & Business Dev | Q3 |
+| 🥑 **Product Repositioning Plan** | Improve slow-moving product sales | Product & Sales Teams | Q3-Q4 |
+| 🛡️ **Retailer Strategy** | Strengthen partnerships | Retail Relations Team | Q2 |
+| 💰 **Margin Optimization** | Improve profitability strategies | Pricing & Finance Teams | Q4 |
+
+
+
+
+
+
+
 
 
 
