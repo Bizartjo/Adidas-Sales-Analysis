@@ -46,3 +46,21 @@ Below are **recommended Power BI visuals** to support the analysis:
 | 📊 **Bar Chart**                          | Total Sales by Product - Evaluate product performance       |
 | 🛒 **Bar Chart**                          | Total Sales by Retailer - Assess retailer contributions     |
 
+---
+
+## 📊 Dashboard Reviews
+
+![Image](https://github.com/user-attachments/assets/009a3394-28db-431f-885f-e497248e4a9b)
+
+
+![Image](https://github.com/user-attachments/assets/1235d349-f9de-4c85-9ec2-1c38521dba2f)
+
+
+![Image](https://github.com/user-attachments/assets/0f5a6326-8a37-4dec-ad48-990aa377c60f)
+
+
+
+
+
+
+
